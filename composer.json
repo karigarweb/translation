@@ -18,7 +18,7 @@
         }
     ],
     "require": {
-        "laravel/framework": "~8.0",
+        "laravel/framework": "^8.0",
         "doctrine/dbal": "^2.5.2"
     },
     "require-dev": {
